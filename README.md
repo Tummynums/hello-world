@@ -1,2 +1,3 @@
 # hello-world
-My first attempt at programming on Github
+Here goes my first attempt to add something to Github.
+I love makeup, my dogs, and I think Steve Humburg is the best. 
